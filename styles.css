@@ -1,5 +1,4 @@
 '
-color: ffffff;
 body {
 font-family: Arial, sans-serif;
 background-color: #000000;
@@ -13,5 +12,6 @@ padding: 0;
 …
 }
 .titulo { 
-text-align: center; 
+  text-align: center;
+  color: ffffff;
 }
